@@ -1,0 +1,53 @@
+*{
+    margin: 5px;
+}
+
+.container{
+    width: 57%;
+    margin: auto;
+    text-align: center;
+    height: 80vh;
+    border: 3px solid rgb(3, 67, 69);
+    margin-top: 15px;
+    background-color: rgb(236, 90, 119);
+    
+    border-radius: 55px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(74,13,13,0.75);
+}
+ input{
+    width: 111px;
+    height: 4.5vh;
+    text-align: center;
+} 
+button{
+    width: 90px;
+    height: 4vh;
+    text-align: center;
+}
+
+#Mytable {
+   
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #Mytable td{
+    border: 3px solid rgb(30, 2, 2);
+    padding: 8px;
+  }
+  
+  #Mytable tr:nth-child(even){background-color: #a198f4;}
+  #Mytable tr:nth-child(odd){background-color: #74a806;}
+
+  
+  #Mytable tr:hover {background-color: rgb(228, 248, 78);}
+  
+  /* #Mytable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  } */

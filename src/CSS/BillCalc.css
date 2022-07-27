@@ -1,0 +1,21 @@
+
+#bill_calc{
+    width: 60%;
+    margin: auto;
+    height: 80vh;
+    border: 3px solid green;
+    background-color: black;
+    text-align: center;
+    margin-top: 15px;
+    border-radius: 55px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(74,13,13,0.75);
+    background-color: rgb(73, 40, 103);
+}
+#unit{
+    margin-top: 25px;
+}
+button{
+    margin: 11px;
+}
